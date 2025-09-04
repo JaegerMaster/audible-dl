@@ -1,0 +1,6 @@
+# Ignore the user's personal configuration file
+config.ini
+
+# Ignore Python cache files
+__pycache__/
+*.pyc

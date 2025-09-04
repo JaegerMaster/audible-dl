@@ -1,0 +1,12 @@
+[Settings]
+
+# The default directory where your decrypted .m4b audiobooks will be saved.
+# The tilde (~) will be automatically expanded to your home directory.
+output_dir = ~/Downloads/audiobooks
+
+# The number of books to display on each page when browsing the library.
+page_size = 10
+
+# The default sorting order for the library view.
+# Options: newest_first, oldest_first
+default_sort = newest_first
