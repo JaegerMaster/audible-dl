@@ -1,5 +1,7 @@
 # Audible Downloader & Decrypter
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-orange?logo=buy-me-a-coffee)](https://www.buymeacoffee.com/jaegermaster)
+
 A command-line tool to interactively browse your Audible library, download audiobooks, decrypt them to the standard `.m4b` format, and clean up the intermediate files.
 
 This script acts as a user-friendly wrapper around the powerful `audible-cli` and `ffmpeg` tools.
